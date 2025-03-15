@@ -91,7 +91,7 @@ Once downloaded, follow these steps to set up and run ddSMT:
 
 ## RQ1 & 2: Effectivenss and Efficiency of Latra
 
-Finding 1: The paper claims that Latra improves the reduction performance of language-agnostic reducers, reducing 33.77% and 9.17% more tokens on average than Vulcan in C and SMTLIB benchmarks. 
+Finding 1: Latra improves the reduction performance of language-agnostic reducers, reducing 33.77% and 9.17% more tokens on average than Vulcan in C and SMTLIB benchmarks. 
 
 Finding 2: Latra demonstrates comparable reduction performance to language-specific reducers. It outperforms ddSMT and achieves a reduction capability similar to C-Reduce. The slight advantage of C-Reduce in token reduction is not statistically significant.
 
